@@ -1,8 +1,8 @@
-describe("Bowling game". function() {
+describe("Bowling game", function() {
   var game
 
   beforeEach(function() {
-    game = new BowlingGame;
+    game = new BowlingGame();
   });
 
 
